@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bucket-list.iml" filepath="$PROJECT_DIR$/.idea/bucket-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sowlver-vitrine/.idea/sowlver-vitrine.iml" filepath="$PROJECT_DIR$/../sowlver-vitrine/.idea/sowlver-vitrine.iml" />
+    </modules>
+  </component>
+</project>

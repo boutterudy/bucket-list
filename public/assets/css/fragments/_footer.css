@@ -1,0 +1,13 @@
+#footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    background-color: #B0413E;
+    padding: 20px;
+}
+
+#footer p {
+    opacity: 0.75;
+}

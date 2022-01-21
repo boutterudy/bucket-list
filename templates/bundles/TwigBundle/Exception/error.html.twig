@@ -1,0 +1,8 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ status_text|capitalize }}{% endblock %}
+
+{% block body %}
+    <h1>Oops, error {{ status_code }}! 😯</h1>
+    <p>{{ status_text }}...</p>
+{% endblock %}

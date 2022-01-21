@@ -1,0 +1,8 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Homepage{% endblock %}
+
+{% block body %}
+    <h1>Hello {% if app.user %}{{ app.user.pseudo }}{% endif %}! 🎉</h1>
+    <p>Welcome to this friendly website.</p>
+{% endblock %}
